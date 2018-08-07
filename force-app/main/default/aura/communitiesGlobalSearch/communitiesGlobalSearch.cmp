@@ -1,0 +1,29 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+    <aura:attribute name="searchText" type="String" default=""/>
+    <aura:attribute name="globalSearchTitle" type="String" default="search Accounts"/>
+    <div class="slds-form-element slds-lookup" data-select="single">
+        <div class="slds-float-left">
+            {!v.globalSearchTitle}
+        </div>
+       
+            <!--<div class="slds-input-has-icon slds-input-has-icon-right">
+          <lightning:buttonIcon iconName="utility:search" variant="bare" onclick="{! c.handleClick }" alternativeText="Search" class="slds-input__icon" />
+          <ui:inputText value="{!v.searchText}" class="slds-lookup__search-input slds-input" placeholder="Search" />
+            <lightning:button variant="brand" label="search" title="Brand action" onclick="{! c.handleClick }" />
+        </div>-->
+            <div class="slds-float-left">
+                <lightning:layout>
+                    <lightning:layoutItem size="3" padding="around-none">
+                        <lightning:input value="{!v.searchText}"
+                                         variant = "label-hidden"
+                                         required="true"
+                                         placeholder="Search.."
+                                         label="Account Name"/>
+                    </lightning:layoutItem>
+                    <lightning:layoutItem size="2" padding="around-none">
+                        <lightning:button variant="brand" label="Search" title="Brand action" onclick="{! c.handleClick }" />
+                    </lightning:layoutItem>
+                </lightning:layout></div>
+        
+    </div>
+</aura:component>

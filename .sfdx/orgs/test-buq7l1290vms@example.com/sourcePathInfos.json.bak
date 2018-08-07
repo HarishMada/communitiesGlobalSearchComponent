@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533649752319,
+            "changeTime": 1533649752319,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533649752319,
+            "changeTime": 1533649752319,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533649752319,
+            "changeTime": 1533649752319,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533650030539,
+            "changeTime": 1533650030539,
+            "contentHash": "c34b20b51f7b4f0505b0bb6d3a636c065bf45058",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533650030550,
+            "changeTime": 1533650030550,
+            "contentHash": "6cd4351a5080dca8dc83c47a34f0071712b2371c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533650030549,
+            "changeTime": 1533650030549,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1701,
+            "modifiedTime": 1533650120818,
+            "changeTime": 1533650120818,
+            "contentHash": "9e998de47c76f4513380516c46e519135b988566",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1533650030542,
+            "changeTime": 1533650030542,
+            "contentHash": "19df76161d9356b384a93942648a81aeb1dca542",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533650030545,
+            "changeTime": 1533650030545,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 115,
+            "modifiedTime": 1533650185366,
+            "changeTime": 1533650185366,
+            "contentHash": "4732af2878f8bed446e3e1d2f20208de2bf950d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearch.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533650030548,
+            "changeTime": 1533650030548,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 316,
+            "modifiedTime": 1533650135296,
+            "changeTime": 1533650135296,
+            "contentHash": "d9465022573ec4f8452961e37c9c3400a5e26b07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533650030544,
+            "changeTime": 1533650030544,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch\\force-app\\main\\default\\aura\\communitiesGlobalSearch\\communitiesGlobalSearchRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533650030546,
+            "changeTime": 1533650030546,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\hmada\\Documents\\communitiesGlobalSearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533650255756,
+            "changeTime": 1533650255756,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
