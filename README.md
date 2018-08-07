@@ -1,14 +1,3 @@
-# SFDX  App
-
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+Salesforce communities custom global search component with Title design attribute.
 
 
